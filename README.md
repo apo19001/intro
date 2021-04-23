@@ -3,7 +3,7 @@
 Hi! My name is Moses. I'm a computer science student attending BYU-I,
 with an emphasis in functional programming.
 
-This program just prints "Hello World"
+This program just prints "Hello World".
 
 This program was a test to understand how VSCODE and github worked. 
 I learned how to use plugins.
