@@ -21,7 +21,5 @@ I learned how to use .MD files, and tested my python work.
 I used python 3.8.5 to run on my computer.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [VSCODE](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [VSCODE](https://code.visualstudio.com/docs/editor/github)
