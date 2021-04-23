@@ -8,7 +8,7 @@ This program just prints "Hello World"
 This program was a test to understand how VSCODE and github worked. 
 I learned how to use plugins.
 
-I learned how to use .MD files, and my tested my python work.
+I learned how to use .MD files, and tested my python work.
 
 [Software Demo Video](https://youtu.be/z0R8PfonWac)
 
