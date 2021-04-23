@@ -14,9 +14,9 @@ I learned how to use .MD files, and tested my python work.
 
 # Development Environment
 
-Visual Studio Code
-Python 3.8.5
-Git
+* Visual Studio Code
+* Python 3.8.5
+* Git
 
 I used python 3.8.5 to run on my computer.
 
